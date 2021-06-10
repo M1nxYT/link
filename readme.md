@@ -1,3 +1,2 @@
 * Item 1
-<br>
-* Item 2
+<br> * Item 2
