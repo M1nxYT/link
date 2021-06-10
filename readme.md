@@ -1,4 +1,4 @@
 * Item 1
-<br> 
+<br /> 
 
 * Item 2
