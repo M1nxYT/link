@@ -1,4 +1,3 @@
 * Item 1
+<br>
 * Item 2
-  * Sub Item 1
-  * Sub Item 2
